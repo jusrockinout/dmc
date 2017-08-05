@@ -2,19 +2,33 @@
 
 # Description
 
-The Reserved Gym is a place for  reserved or introverted people that would like to reserved highly used in the gym to maximize their time in the gym. In our hypothetical gym our clients will be able to reserve high use machines using our management application. With our management system clients would be able to reserve machines such as Smith Machines, free-weight benches, pull-up machines, cable machines and etc.
+The DMC, aka the Dispensary Marketplace Community, exists to connect independent dispensaries with local customers by providing them with a simple and easy to use we application that will enable customers to discover dispensaries, connect, and facilitate online transactions.
 
-# Project URL
+# Project Deployed via Heroku
 
 - https://infinite-oasis-96931.herokuapp.com/
 
-# Github Link
+# Project Deployed via GitHub Pages (Static Site)
+
+- https://jusrockinout.github.io/dmc/
+
+# GitHub Repository
 
 - https://github.com/jusrockinout/Reserved-Gym
 
-# Trello Board
+# Trello Boards
 
-- https://trello.com/b/oqAsI2Lx
+Overview
+
+- https://trello.com/b/qnKJNh2W/project-3-overview
+
+Front-End
+
+- https://trello.com/b/vsV99rRW/project-3-front-end
+
+Back-End
+
+- https://trello.com/b/O2e731yW/project-3-back-end
 
 ## Demo
  
@@ -22,50 +36,48 @@ The Reserved Gym is a place for  reserved or introverted people that would like 
 
 ## Technologies Used
 
+- General
+	- Architectural Structure: MVC (Model-View-Controller)
+	- Version Control: GitHub
 - Client-Side
-	- Basics: HTML/CSS/JavaScript/jQuery
-	- Framework: Bootstrap
-- Server
-	- NodeJS/ExpressJS	
-	- Templating: HandlebarsJS
-	- Syncronization: Socket.io:
-	- Authentication: PassportJS
-- Database 
-	- MySQL
-	- JawsDB
-	- ORM: Sequelize
-- Architectural Structure
-	- MVC
-- Version Control
-	- GitHub
-- Deployment
-	- Heroku
-	- JawsDB Plugin
-- Testing
-
-## New Technologies Used
-
-- Libraries & Modules 
-	- Socket.io
-	- PassportJS
+	- HTML
+	- CSS
+	- Bootstrap
+	- Bootstrap Template
+	- JavaScript
+	- jQuery
+	- ReactJS
+	- Redux**
+- Server-Side
+	- Back-End Scripting: NodeJS
+	- Web Server:ExpressJS
+	- Database: MongoDB
+	- Database ORM: MongooseORM
+	- Templating: HandlebarsJS*
+	- Authentication: PassportJS**
+	- Deployment(Static): GitHub Pages
+	- Deployment(Dynamic): Heroku
 - APIs
-	- Google Oauth API
-	- Google Calendar API
-	- Google Fit API
+	- Google Maps
+	- Stripe
+	- Leafly**
+- Development
+	- Testing:
 
 ## Built Using
 
 - Slack
 - Trello
-- Google Drive, Docs, etc
+- G Suite
 - Google Hangouts
 - GitHub
 - Heroku
-* Sublime Text 3
+- Atom, Sublime Text 3, Visual Studio Code
 
 ## Getting Started
 
- - COMING SOON! 
+ - git clone repository or download file and unzip
+ - run npm install
 
 ### Prerequisities
 
@@ -97,8 +109,7 @@ The Reserved Gym is a place for  reserved or introverted people that would like 
 
 ## Authors & Contributions
 
-* **Erique Berry**
-* **Timonthy R. Anderson**
+* **John Leverett**
 * **John Sproat**
 * **Matt Ragnone**
 * **Gary Newton**
@@ -110,14 +121,14 @@ The Reserved Gym is a place for  reserved or introverted people that would like 
 	- Darin
 	- Stephen Macneil
 - Teaching Assistants
-	- Nathan
-	- Michael
+	- Nathan 
+	- Michael Coomes
 
 ## Resources
  
 - Official Documentation
 	- COMING SOON! 
 - Tutorials & Guides
-- COMING SOON! 
+	- COMING SOON! 
 - Inspirations
-- COMING SOON! 
+	- COMING SOON! 
