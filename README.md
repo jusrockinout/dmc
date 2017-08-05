@@ -1,4 +1,4 @@
-# Reserved Gym
+# The Dispensary Marketplace Community Web Application
 
 # Description
 
