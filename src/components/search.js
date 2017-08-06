@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
-class search extends Component {
+class Search extends Component {
     render() {
 
         if (this.props.data){
           var searchbar = this.props.data.searchbar;
-          
+
 
         }
 

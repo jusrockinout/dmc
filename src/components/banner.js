@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class banner extends Component {
+class Banner extends Component {
     render() {
 
         if (this.props.data){
