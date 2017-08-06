@@ -1,6 +1,14 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import $ from 'jquery';
+import Navbar from './Components/Navbar';
+import Banner from './Components/Banner';
+import Search from './Components/Search';
+import Map from './Components/Map';
+import Contact from './Components/Contact';
+import Register from './Components/Register';
+import Footer from './Components/Footer';
 
 class App extends Component {
   render() {
