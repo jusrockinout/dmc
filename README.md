@@ -4,17 +4,19 @@
 
 The DMC, aka the Dispensary Marketplace Community, exists to connect independent dispensaries with local customers by providing them with a simple and easy to use we application that will enable customers to discover dispensaries, connect, and facilitate online transactions.
 
-# Project Deployed via Heroku
+# GitHub Repository
 
-- https://infinite-oasis-96931.herokuapp.com/
+- https://github.com/jusrockinout/dmc
 
-# Project Deployed via GitHub Pages (Static Site)
+# Static Deployed via GitHub Pages
 
 - https://jusrockinout.github.io/dmc/
 
-# GitHub Repository
+# Dynamic Site Deployed via Heroku
 
-- https://github.com/jusrockinout/Reserved-Gym
+- https://the-dmc.herokuapp.com/
+
+# **Development**
 
 # Trello Boards
 
@@ -30,8 +32,12 @@ Back-End
 
 - https://trello.com/b/O2e731yW/project-3-back-end
 
-## Demo
- 
+## Client(s)
+
+- COMING SOON
+
+## Requirements
+
 - COMING SOON
 
 ## Technologies Used
@@ -40,39 +46,35 @@ Back-End
 	- Architectural Structure: MVC (Model-View-Controller)
 	- Version Control: GitHub
 - Client-Side
-	- HTML
-	- CSS
-	- Bootstrap
-	- Bootstrap Template
-	- JavaScript
-	- jQuery
-	- ReactJS
-	- Redux**
+	- Structure: HTML/HTML5, JSX
+	- Styling: Basic CSS/CSS3, Bootstrap 3, Bootstrap Template
+	- Interactivity: JavaScript, jQuery
+	- Dynamic Interactivity: ReactJS
 - Server-Side
 	- Back-End Scripting: NodeJS
 	- Web Server:ExpressJS
-	- Database: MongoDB
+	- Database/Document Store: MongoDB
 	- Database ORM: MongooseORM
-	- Templating: HandlebarsJS*
 	- Authentication: PassportJS**
 	- Deployment(Static): GitHub Pages
-	- Deployment(Dynamic): Heroku
-- APIs
+	- Deployment(Dynamic): Heroku, mLab MongoDB Plug-in
+- External APIs
 	- Google Maps
 	- Stripe
 	- Leafly**
 - Development
 	- Testing:
+  - Continuous Integration
+- Tool Kit
 
 ## Built Using
 
-- Slack
-- Trello
-- G Suite
-- Google Hangouts
-- GitHub
-- Heroku
-- Atom, Sublime Text 3, Visual Studio Code
+- Project Management: Trello
+- Project Communication: Slack, Google Hangouts
+- Project Tools: G Suite: Google Docs, Google Slides, Google Drive, etc.
+- Source Code & Version Control: GitHub
+- Deployment: GitHub Pages(Static/Prototype), Heroku(Dynamic/Final)
+- Text Editors: Atom, Sublime Text 3, Visual Studio Code
 
 ## Getting Started
 
@@ -83,37 +85,39 @@ Back-End
 
  - NodeJS
 
+## What We Would Do With More Time
+
+- COMING SOON!
+
+## Problems/Issues
+
+- COMING SOON!
+
 ## Front-End & Design
 
-- COMING SOON! 
+- COMING SOON!
 
 ## Back-End
 
-- COMING SOON! 
+- COMING SOON!
 
-## Original Idea & Application Concept
+# **Development History**
 
-- To make an application that would allow gym goers to easily, and efficiently reserve gym equipment/spaces to avoid needing to wait, or changing their entire routines. Knowing what equipment is available,when it is available, and being able to schedule and ensure you have what you need to get your workout it.
+## Original Idea; Application Concept
+
+- COMING SOON!
 
 ## Development History
- 
-- COMING SOON! 
 
-## What We Would Do With More Time 
+- COMING SOON!
 
-- COMING SOON! 
-
-## Problems/Issues 
-
-- COMING SOON! 
-
-## Authors & Contributions
+## Authors & Contributors
 
 * **John Leverett**
 * **John Sproat**
 * **Matt Ragnone**
 * **Gary Newton**
-	
+
 ## Acknowledgments
 
 - Instructors
@@ -121,14 +125,14 @@ Back-End
 	- Darin
 	- Stephen Macneil
 - Teaching Assistants
-	- Nathan 
+	- Nathan
 	- Michael Coomes
 
 ## Resources
- 
+
 - Official Documentation
-	- COMING SOON! 
+	- COMING SOON!
 - Tutorials & Guides
 	- COMING SOON! 
 - Inspirations
-	- COMING SOON! 
+	- COMING SOON!
