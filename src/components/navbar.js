@@ -1,25 +1,54 @@
-import React, { Component } from 'react';
+import React from "react";
 
-class Navbar extends Component {
-    render() {
-
-        if (this.props.data){
-          var logo = this.props.data.logo;
-          var about = this.props.data.about;
-          var search = this.props.data.search;
-          var map = this.props.data.map;
-          var checkout = this.props.data.checkout;
-          var contact = this.props.data.contact;
-
-        }
-
-
-
-
-
-
-
-    }
+class Navbar extends React.Component {
+  render() {
+    return (
+      <nav className="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div className="container">
+          <div className="navbar-header">
+            <button
+              type="button"
+              className="navbar-toggle"
+              data-toggle="collapse"
+              data-target=".navbar-main-collapse"
+            >
+              Menu <i className="fa fa-bars" />
+            </button>
+            <a className="navbar-brand page-scroll" href="#page-top">
+              <i className="fa fa-play-circle" />{" "}
+              <span className="light">THE FUCKIN</span> DMC
+            </a>
+          </div>
+          {}
+          <div className="collapse navbar-collapse navbar-right navbar-main-collapse">
+            <ul className="nav navbar-nav">
+              {}
+              <li className="hidden">
+                <a href="#page-top" />
+              </li>
+              <li>
+                <a className="page-scroll" href="#about">
+                  About
+                </a>
+              </li>
+              <li>
+                <a className="page-scroll" href="#download">
+                  Download
+                </a>
+              </li>
+              <li>
+                <a className="page-scroll" href="#contact">
+                  Contact
+                </a>
+              </li>
+            </ul>
+          </div>
+          {}
+        </div>
+        {}
+      </nav>
+    );
+  }
 }
 
-export default Portfolio;
+export default Navbar;
