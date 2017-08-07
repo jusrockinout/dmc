@@ -1,20 +1,9 @@
-import React, { Component } from 'react';
+import React from "react";
 
-class Map extends Component {
-    render() {
-
-        if (this.props.data){
-          var map = this.props.data.map;
-
-        }
-
-
-
-
-
-
-
-    }
+class Map extends React.Component {
+  render() {
+    return <div id="map" />;
+  }
 }
 
-export default Portfolio;
+export default Map;
