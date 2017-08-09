@@ -3,6 +3,7 @@ import './App.css';
 import './css/grayscale.css';
 import './css/grayscale.min.css';
 // import $ from 'jquery';
+import Header2 from './Components/Header2';
 import Header from './Components/Header';
 import Navbar from './Components/Navbar';
 import About from './Components/About';
@@ -17,6 +18,7 @@ class App extends Component {
     console.log("render: True");
      return (
       <div className="App">
+        <Header2 />
         <Header />
         <Navbar />
         <About />

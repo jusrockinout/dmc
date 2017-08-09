@@ -13,10 +13,6 @@ class Header extends React.Component {
                 <p className="intro-text">
                   Find the best products in your area. Shop, save, enjoy.
                 </p>
-                <About />
-                <a href="#about" className="btn btn-circle page-scroll">
-                  <i className="fa fa-angle-double-down animated" />
-                </a>
               </div>
             </div>
           </div>
