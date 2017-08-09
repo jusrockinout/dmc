@@ -5,13 +5,13 @@ import './css/grayscale.min.css';
 
 
 // Javascript files below
-import './vendor/jquery/jquery.js';
-import './vendor/jquery/jquery.min.js';
+// import './vendor/jquery/jquery.js';
+// import './vendor/jquery/jquery.min.js';
 
-import $ from './vendor/jquery/jquery.js';
+// import $ from './vendor/jquery/jquery.js';
 
-import './js/grayscale.js';
-import './js/grayscale.min.js';
+// import './js/grayscale.js';
+// import './js/grayscale.min.js';
 
 import './vendor/bootstrap/css/bootstrap.css';
 import './vendor/bootstrap/css/bootstrap.min.css';
@@ -21,8 +21,8 @@ import './vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf';
 import './vendor/bootstrap/fonts/glyphicons-halflings-regular.woff';
 import './vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2';
 
-import './vendor/bootstrap/js/bootstrap.js';
-import './vendor/bootstrap/js/bootstrap.min.js';
+// import './vendor/bootstrap/js/bootstrap.js';
+// import './vendor/bootstrap/js/bootstrap.min.js';
 
 import './vendor/font-awesome/css/font-awesome.css';
 import './vendor/font-awesome/css/font-awesome.min.css';
