@@ -5,7 +5,7 @@ class Footer extends React.Component {
     return (
       <footer>
         <div className="container text-center">
-          <p>Copyright(c) DMC: The Dispensary Marketplace Community</p>
+          <p>Copyright(c) DMC: The Dispensary Market Community</p>
         </div>
       </footer>
     );
