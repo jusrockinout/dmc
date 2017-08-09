@@ -20,6 +20,7 @@ class About extends React.Component {
               DMC gives you the freedom to build orders for pickup or delivery
               when available from anywhere.
             </p>
+
           </div>
         </div>
       </section>

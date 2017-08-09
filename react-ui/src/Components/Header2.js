@@ -1,17 +1,8 @@
 import React, { Component } from 'react';
 
-class Header extends Component {
+class Header2 extends Component {
   render() {
-    if(this.props.data){
-      var name = this.props.data.name;
-      var occupation = this.props.data.occupation;
-      var description = this.props.data.description;
-      var city = this.props.data.address.city;
-      var networks = this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-      });
-    }
-    return (
+       return (
       <div className="container" id="header3">
       <header id="home">
         <div className="row">
@@ -26,10 +17,6 @@ class Header extends Component {
                   <li><a className="smoothscroll" href="#contact">Contact</a></li>
               </ul>
 
-            </nav>
-          </div>
-        </div>
-
       {/*<div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">Im {name}.</h1>
@@ -40,6 +27,7 @@ class Header extends Component {
             </ul>
          </div>
       </div>*/}
+
       <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
@@ -50,4 +38,4 @@ class Header extends Component {
   }
 }
 
-export default Header;
+export default Header2;
