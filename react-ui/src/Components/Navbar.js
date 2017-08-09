@@ -16,7 +16,7 @@ class Navbar extends React.Component {
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
               <i className="fa fa-play-circle" />{" "}
-              <span className="light">THE FUCKIN</span> DMC
+              <span className="light">The </span> DMC
             </a>
           </div>
           {}
