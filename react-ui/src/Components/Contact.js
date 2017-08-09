@@ -9,7 +9,7 @@ class Contact extends React.Component {
             <h2>Contact DMC</h2>
             <p>
               Feel free to email us to provide some feedback on our services,
-              give us suggestions for new features, or to just say
+              give us suggestions for new features or locations, or to just say
               hello!
             </p>
             <p>
@@ -18,7 +18,7 @@ class Contact extends React.Component {
             <ul className="list-inline banner-social-buttons">
               <li>
                 <a
-                  href="https://twitter.com"
+                  href="https://twitter.com/SBootstrap"
                   className="btn btn-default btn-lg"
                 >
                   <i className="fa fa-twitter fa-fw" />{" "}
@@ -27,7 +27,7 @@ class Contact extends React.Component {
               </li>
               <li>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/IronSummitMedia/startbootstrap"
                   className="btn btn-default btn-lg"
                 >
                   <i className="fa fa-github fa-fw" />{" "}
@@ -36,7 +36,7 @@ class Contact extends React.Component {
               </li>
               <li>
                 <a
-                  href="https://plus.google.com"
+                  href="https://plus.google.com/+Startbootstrap/posts"
                   className="btn btn-default btn-lg"
                 >
                   <i className="fa fa-google-plus fa-fw" />{" "}

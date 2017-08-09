@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import './App.css';
 import './css/grayscale.css';
 import './css/grayscale.min.css';
-import $ from 'jquery';
-import Navbar from './Components/Navbar';
+// import $ from 'jquery';
 import Header from './Components/Header';
+import Navbar from './Components/Navbar';
 import About from './Components/About';
 import Search from './Components/Search';
 import Map from './Components/Map';
@@ -17,8 +17,8 @@ class App extends Component {
     console.log("render: True");
      return (
       <div className="App">
-        <Navbar />
         <Header />
+        <Navbar />
         <About />
         <Search />
         <Map />

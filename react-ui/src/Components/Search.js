@@ -5,8 +5,8 @@ class Search extends React.Component {
     return (
       <div className="container">
         <div className="row">
-          <h2>Explore</h2>
-          <h3>Search by location or dispensary name.</h3>
+          <h2>Search that stank!</h2>
+          <h3>Search by location or dispensary.</h3>
           <div className="search">
             <input
               type="text"
