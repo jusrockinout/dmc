@@ -6,13 +6,17 @@ class Navbar extends React.Component {
       <nav className="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div className="container">
           <div className="navbar-header">
-            <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+            <button
+              type="button"
+              className="navbar-toggle"
+              data-toggle="collapse"
+              data-target=".navbar-main-collapse"
+            >
               Menu <i className="fa fa-bars" />
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
               <i className="fa fa-play-circle" />{" "}
-
-              <span className="light">Welcome to the </span> DMC
+              <span className="light">WELCOME TO THE DMC</span>
             </a>
           </div>
           {}

@@ -11,7 +11,7 @@ class Header extends React.Component {
               <div className="col-md-8 col-md-offset-2">
                 <h1 className="brand-heading">DMC</h1>
                 <p className="intro-text">
-                  Find the best products in your area. Explore, compare, save, relax.
+                  Find the best products in your area. Shop, save, enjoy.
                 </p>
               </div>
             </div>
