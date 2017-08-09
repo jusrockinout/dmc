@@ -8,12 +8,12 @@ class About extends React.Component {
           <div className="col-lg-8 col-lg-offset-2">
             <h2>About DMC</h2>
             <p>
-              DMC is a cannabis dispensary comparison application made my some
+              The DMC is a cannabis dispensary comparison application made my some
               pretty cool dudes who just want to make finding what you want
               easier.
             </p>
             <p>
-              This application is designed to locate the establishemnts in your
+              This application is designed to locate the establishments in your
               area.
             </p>
             <p>
