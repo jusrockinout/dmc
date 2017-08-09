@@ -8,9 +8,7 @@ class Contact extends React.Component {
           <div className="col-lg-8 col-lg-offset-2">
             <h2>Contact DMC</h2>
             <p>
-              Feel free to email us to provide some feedback on our services,
-              give us suggestions for new features or locations, or to just say
-              hello!
+              Feel free to email us to provide some feedback on our services, give us suggestions for new features or locations, or to just say hello!
             </p>
             <p>
               <a href="mailto:dmc@gmail.com">dmc@gmail.com</a>
